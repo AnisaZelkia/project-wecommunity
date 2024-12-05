@@ -9,11 +9,11 @@
 
 2. **Frontend**
    ```bash
-  cd frontend
-  # Install dependencies
-  npm install
-  # Jalankan server
-  npm start
+     cd frontend
+     # Install dependencies
+     npm install
+     # Jalankan server
+     npm start
 
   
 ### **3. Sinkronisasi dengan GitHub**
